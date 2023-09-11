@@ -22,7 +22,7 @@ O projeto está concluído.
 
 Frontend em HTML5, CSS3 e JS. Não necessita instalação, somente abrir o html em seu navegador e navegar entre as páginas.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando Frontend Bluefood
 
 Não há necessidade de instalar.
 
